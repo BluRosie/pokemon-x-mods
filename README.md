@@ -8,3 +8,4 @@ installation:
 
 current things:
 * as a proof of concept, the shiny rate was edited to 1/2
+* starters were edited
