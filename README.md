@@ -1,6 +1,6 @@
 # Pokemon X Modded Files
 
-going to be working on this on the side for a wee bit, maybe
+experimenting around with pokémon x
 
 installation:
 * drag and drop this onto the root of the sd card.  merge and overwrite when necessary.
@@ -9,3 +9,4 @@ installation:
 current things:
 * as a proof of concept, the shiny rate was edited to 1/2
 * starters were edited
+* route 1 mons were changed
